@@ -1,10 +1,11 @@
-#include <studio.h>
+#include <stdio.h>
 /**
- * main - Entry Point
- * Return: Always O (success)
+ * main - This is the main function
+ *
+ * Return: Always 0
  */
 int main(void)
 {
-	puts("/"......")
+	puts("\"Programming is like building a multilingual puzzle");
 		return (0);
 }
